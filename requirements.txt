@@ -1,5 +1,5 @@
-aloe>=0.2.0, <0.3.0
-cssselect>=0.7.1
+aloe
+cssselect
 Django
-django-nose>=1.4.4
+django-nose
 PyYAML
